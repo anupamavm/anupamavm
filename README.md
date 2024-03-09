@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamavm&label=Profile%20views&color=0e75b6&style=flat" alt="anupamavm" /> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@anupama_vm](https://medium.com/@anupama_vm)
+
 
 - 💬 Ask me about **Java Spring , Angular , Express JS**
 
