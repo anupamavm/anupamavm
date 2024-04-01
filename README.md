@@ -5,8 +5,6 @@
 
 
 
-- 💬 Ask me about **Java Spring , Angular , Express JS**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
