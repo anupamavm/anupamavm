@@ -20,12 +20,6 @@ Software Engineer with 1.5+ years of experience building scalable APIs, distribu
 
 ---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/anupamavm/count.svg?" />
-</div>
-
----
-
 ### Tech Stack
 
 <div align="center">
